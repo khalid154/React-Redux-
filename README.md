@@ -1,2 +1,3 @@
-# React-Redux-
-add delete items through store using Redux in React
+# React-Redux
+perform Crud Operation in react using Redux.
+data flows from store in unidirection
